@@ -23,7 +23,7 @@ body {
 }
 
 .fecha span {
-    font-weight: 600;
+    font-weight: 500;
     color: #ffff;
     
    
@@ -47,7 +47,7 @@ body {
 
 .grande {
     font-family: "Bricolage Grotesque", sans-serif;
-    font-size: 6rem;
+    font-size: 5rem;
     font-weight: 800;
     color: #df2b0c;;
     margin: 0;
@@ -72,7 +72,7 @@ body {
   
 
     width: 100%;
-    max-width: 600px; /* o el tamaño máximo que prefieras */
+    max-width: 500px; 
     height: auto;
     display: block;
     margin-left: auto;
@@ -131,7 +131,7 @@ align-content: center;
 
      display: flex;
     width: 100%;
-    margin-bottom: 100px;
+    margin-bottom: 65px;
     margin-top: 0px;
 
 }
@@ -206,7 +206,8 @@ align-content: center;
  .fo{
 
     margin-bottom: 0px;
-    color: #363636;
+    color: #2c2c2c;
+    font-size: 10px;
 
  }
 
@@ -297,9 +298,6 @@ align-content: center;
    }
     
  }
-
-
-
 
 
 
